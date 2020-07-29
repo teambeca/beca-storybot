@@ -1,0 +1,8 @@
+﻿Gösterdim, gördü anlamına gelmez.
+Söyledim, duydu anlamına gelmez.
+ Duydu, doğru anladı anlamına gelmez.
+ Anladı, hak verdi anlamına gelmez.
+ Hak verdi, inandı anlamına gelmez.
+ İnandı, uyguladı anlamına gelmez.
+ Uyguladı, sürdürecek anlamına gelmez.
+
